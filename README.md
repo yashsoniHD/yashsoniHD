@@ -6,7 +6,7 @@ AI engineer in Bengaluru. I build LLM systems that run in production: RAG, MCP s
 
 ### Selected work
 
-- **[keeps](https://github.com/yashsoniHD/keeps)**: save-anything notes app with AI enrichment and embeddings. FastAPI, React, React Native.
+- **[keeps](https://github.com/yashsoniHD/keeps)**: save-anything notes app with AI enrichment and embeddings. FastAPI, Gemini, React.
 - **[reddit-brand-research](https://github.com/yashsoniHD/reddit-brand-research)**: finds the Reddit communities for a topic and turns threads into content ideas with evidence.
 - **Design Bank** (private, employer): multi-modal RAG over a decade of ad creative, pgvector under 15ms, served as an MCP server.
 
