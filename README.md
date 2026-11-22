@@ -10,4 +10,4 @@ AI engineer in Bengaluru. I build LLM systems that run in production: RAG, MCP s
 - **[reddit-brand-research](https://github.com/yashsoniHD/reddit-brand-research)**: finds the Reddit communities for a topic and turns threads into content ideas with evidence.
 - **Design Bank** (private, employer): multi-modal RAG over a decade of ad creative, pgvector under 15ms, served as an MCP server.
 
-**Stack:** Python (FastAPI) · TypeScript (Next.js, React Native) · Postgres + pgvector · Supabase · GCP · Anthropic, OpenAI, Gemini APIs · MCP
+**Stack:** Python (FastAPI) · TypeScript (Next.js, React) · Postgres + pgvector · Supabase · GCP · Anthropic, OpenAI, Gemini APIs · MCP
